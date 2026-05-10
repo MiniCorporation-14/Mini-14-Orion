@@ -1,9 +1,3 @@
-<h1 align="center"> <img alt="Orion Station" width="420" height="120" src="https://raw.githubusercontent.com/AtaraxiaSpaceFoundation/asset-dump/refs/heads/master/OrionStation/Orion-Banner-Big.png" /> </h1>
-
-<p align="center">
-  Ваш проводник в космический симулятор безумия!<br>
-  Основан на идеях <a href="https://github.com/tgstation/tgstation">/tg/station</a> и <a href="https://github.com/shiptest-ss13/Shiptest">Shiptest</a> из Space Station 13.
-</p>
 
 <div align="center">
 
