@@ -1,10 +1,4 @@
 
-<div align="center">
-
-  [![Steam](https://img.shields.io/badge/Steam-Скачать-blue?style=for-the-badge)](https://store.steampowered.com/app/1255460/Space_Station_14/)
-  [![Client](https://img.shields.io/badge/Клиент-Скачать-purple?style=for-the-badge)](https://spacestation14.io/about/nightlies/)
-
-</div>
 
 ---
 
@@ -13,18 +7,7 @@
 ---
 
 <div align="center">
-    
-## Ссылки
 
-</div>
-
-[<img src="https://github.com/AtaraxiaSpaceFoundation/asset-dump/blob/master/Misc/Discord/discord-banner.png" alt="Discord" width="150" align="left">](https://discord.gg/K48JujjjsC)
-**[Discord Server](https://discord.gg/K48JujjjsC)**<br>В космосе вас никто не услышит.
-
-[<img src="https://i.imgur.com/XiS9QP5.png" alt="ASF" width="150" align="left">](https://github.com/AtaraxiaSpaceFoundation)
-**[Ataraxia Space Foundation](https://github.com/AtaraxiaSpaceFoundation)**<br>Специализируемся на разработке этого билда.
-
----
 <div align="center">
 
 ## Активность репозитория
